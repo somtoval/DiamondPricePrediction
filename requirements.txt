@@ -1,0 +1,9 @@
+pandas
+numpy 
+flask
+seaborn
+scikit-learn==1.2.1
+
+# If you want to install our packages (our folders specified with __init__.py file) directly from this requirement.txt file
+-e .
+# So with this command above while install the packages(pandas,numpy, blah blah blah) setup.py will also get triggered
