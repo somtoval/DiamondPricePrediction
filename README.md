@@ -1,1 +1,1 @@
-## Machine Learning Project
+## Machine Learning Project to Predict the Price of a Diamond based on it's features :)
